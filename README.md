@@ -31,7 +31,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://media1.tenor.com/m/TJdQgWPej6wAAAAC/dead-dead-demon%27s-dededede-destruction-dededede.gif" alt="Imagem">
+  <img align="center" src="https://media1.tenor.com/m/TJdQgWPej6wAAAAC/dead-dead-demon%27s-dededede-destruction-dededede.gif(https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif)" alt="Imagem">
 </p>
 
 ## Technologies && Tools
