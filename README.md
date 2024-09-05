@@ -14,13 +14,6 @@
   - Email: pedrolccmartins@gmail.com
 </p>
 
-<p>
-  👨‍💻 About me
-
-  - I'm 20 years, currently living in the Brazil. I have experience with Java, C++.
-
-  - I like watch movies, read good books, and play many games.
-</p>
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 About me</summary>
