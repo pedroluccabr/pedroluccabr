@@ -29,19 +29,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluccabr&show_icons=true&theme=radical" alt="Linguagens mais usadas" height="220">
 </p>
 
-<!-- Portfolio -->
-## Portfolio:
-- ....
-- ....
-- ....
-- ....
-
 <!-- GIF -->
 <p align="center">
   <img align="center" src="https://media1.tenor.com/m/TJdQgWPej6wAAAAC/dead-dead-demon%27s-dededede-destruction-dededede.gif" alt="Imagem">
 </p>
 
-## Technologies && Tools
+## Skills
 <!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
     <h3>Main technologies</h3>
