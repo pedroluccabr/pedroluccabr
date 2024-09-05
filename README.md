@@ -7,11 +7,9 @@
 
 <!-- Apresentação -->
 <p>
-  Hello, i'm Pedro Lucca! Somputer Science student.
+  Hello, i'm Pedro Lucca! Computer Science student.
 
-  - Atualmente estou cursando Ciência da Computação na UESB
-
-  - Estou em busca da minha primeira oportunidade de emprego.
+  - Studying in the Universidade Estadual do Sudoeste da Bahia.
 
   - Email: pedrolccmartins@gmail.com
 </p>
@@ -20,9 +18,9 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 21 anos, atualmente moro no Brasil. Tenho experiência com Java, Python, HTML5, CSS3. 
+  - I'm 20 years, currently living in the Brazil. I have experience with Java, C++. 
 
-  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
+  - I like watch movies, read good books, and play many games.
 </details>
 
 <!-- Estatísticas do GitHub -->
