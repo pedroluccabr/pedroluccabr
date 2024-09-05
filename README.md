@@ -38,4 +38,11 @@
 <!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
     <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  </div>
+
+  ## Operational System
+<!-- Habilidades: Linguagens de Programação -->
+  <div style="flex-basis: 48%;">
+    <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   </div>
