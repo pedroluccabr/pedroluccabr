@@ -34,9 +34,8 @@
   <img align="center" src="https://media1.tenor.com/m/TJdQgWPej6wAAAAC/dead-dead-demon%27s-dededede-destruction-dededede.gif" alt="Imagem">
 </p>
 
-## Skills
+## Technologies && Tools
 <!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
-    <h3>Main technologies</h3>
     <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   </div>
