@@ -16,7 +16,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 About me</summary>
 
   - I'm 20 years, currently living in the Brazil. I have experience with Java, C++. 
 
