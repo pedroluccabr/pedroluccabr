@@ -20,7 +20,7 @@
 
   - I'm 20 years, currently living in the Brazil. I have experience with Java, C++. 
 
-  - I like watch movies, read good books, and play many games.
+  - I like watch movies, read good books, and play games.
 </details>
 
 <!-- Estatísticas do GitHub -->
