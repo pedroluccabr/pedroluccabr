@@ -12,6 +12,8 @@
   - Studying in the Universidade Estadual do Sudoeste da Bahia.
 
   - Email: pedrolccmartins@gmail.com
+
+  - LinkedIn: https://www.linkedin.com/in/pedro-lucca-martins/
 </p>
 
 <!-- Dropdown -->
