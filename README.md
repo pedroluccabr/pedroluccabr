@@ -7,7 +7,7 @@
 
 <!-- Apresentação -->
 <p>
-  Hello, i'm Pedro Lucca! 
+  Welcome to my github. 
   
   - 🖥️ Computer Science student.
 
